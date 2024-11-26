@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Seashellqwq
 - 👀 I’m interested in sleeping
-- 📫 My Wechat id: Seashellqwq
+- 📫 My Wechat id: seashellqwq
 
 <!---
 Seashellqwq/Seashellqwq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
